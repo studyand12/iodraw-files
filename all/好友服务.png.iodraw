@@ -34,11 +34,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-71" value="3. 检查黑名单 Blocklist" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="0.0557" y="-40" relative="1" as="geometry">
+          <mxGeometry x="0.0557" y="-60" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="302" />
             </Array>
-            <mxPoint x="-14" y="-32" as="offset" />
+            <mxPoint x="-21" y="-47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-72" value="4. 无黑名单记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-67" target="Kdr6ucMX84KhMuHh8XHY-66">
@@ -57,10 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-74" value="6. 创建通知 Notification" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0583" y="-100" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="68" y="302" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-75" value="7. 推送通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-67" target="Kdr6ucMX84KhMuHh8XHY-68">
