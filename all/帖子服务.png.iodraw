@@ -1,0 +1,81 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-40" value="用户登录/注册&#xa;(auth.py)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="87" width="246" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-41" value="创建新帖子&#xa;(POST /posts)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="316" y="141" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-42" value="查看帖子列表&#xa;(GET /posts)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="186" width="206" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-43" value="查看帖子详情&#xa;(GET /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="588" y="74" width="176" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-44" value="添加评论&#xa;(POST /comments)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="850" y="20" width="152" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-45" value="点赞帖子&#xa;(POST /like)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="828" y="137" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-46" value="删除帖子&#xa;(DELETE /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="592" y="240" width="168" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-47" value="级联删除评论/点赞&#xa;(CASCADE DELETE)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="814" y="240" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-40" target="Kdr6ucMX84KhMuHh8XHY-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.22;entryY=1;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-42" target="Kdr6ucMX84KhMuHh8XHY-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-41" target="Kdr6ucMX84KhMuHh8XHY-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-43" target="Kdr6ucMX84KhMuHh8XHY-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-43" target="Kdr6ucMX84KhMuHh8XHY-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-41" target="Kdr6ucMX84KhMuHh8XHY-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-46" target="Kdr6ucMX84KhMuHh8XHY-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
