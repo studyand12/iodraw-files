@@ -201,9 +201,6 @@
         <mxCell id="I_RcoYWsgymP066cbY6h-11" value="Elasticsearch (日志分析与检索)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1085" y="1142" width="154" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-12" value="Prometheus (性能监控/告警)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="818" y="1375" width="146" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="I_RcoYWsgymP066cbY6h-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="I_RcoYWsgymP066cbY6h-1" target="I_RcoYWsgymP066cbY6h-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -265,13 +262,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1024" y="1175" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="I_RcoYWsgymP066cbY6h-3" target="I_RcoYWsgymP066cbY6h-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="758" y="1409" />
             </Array>
           </mxGeometry>
         </mxCell>
