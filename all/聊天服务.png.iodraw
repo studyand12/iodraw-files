@@ -14,7 +14,7 @@
           <mxGeometry x="33" y="226" width="115" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-67" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="329" width="108" height="49" as="geometry" />
+          <mxGeometry x="26" y="329" width="104" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-68" value="用户B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="432" width="98.94" height="48" as="geometry" />
