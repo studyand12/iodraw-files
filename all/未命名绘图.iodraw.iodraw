@@ -192,7 +192,7 @@
         <mxCell id="I_RcoYWsgymP066cbY6h-8" value="Redis 集群 (缓存/实时队列)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1049" y="1043" width="225" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-9" value="MongoDB 分片 (聊天日志/动态内容)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="I_RcoYWsgymP066cbY6h-9" value="MongoDB 分片 (聊天日志)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1073" y="1259" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="I_RcoYWsgymP066cbY6h-10" value="Celery 异步任务 (报表生成/消息推送)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
