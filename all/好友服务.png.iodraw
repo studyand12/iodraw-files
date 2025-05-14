@@ -73,9 +73,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-74" value="6. 创建通知 Notification" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="0.0383" y="-119" relative="1" as="geometry">
+          <mxGeometry x="1" y="-113" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-1" y="-3" as="offset" />
+            <mxPoint x="-1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-85" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kdr6ucMX84KhMuHh8XHY-74">
@@ -107,22 +107,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-78" value="10. 更新Friendship状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="1" y="-124" relative="1" as="geometry">
+          <mxGeometry x="1" y="-127" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-5" y="49" as="offset" />
+            <mxPoint x="2" y="51" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kdr6ucMX84KhMuHh8XHY-86" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kdr6ucMX84KhMuHh8XHY-78">
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-86" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kdr6ucMX84KhMuHh8XHY-78">
           <mxGeometry x="0.0284" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-79" value="11. 创建反向好友关系" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="1" y="-138" relative="1" as="geometry">
+          <mxGeometry x="1" y="-135" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="116" y="302" />
             </Array>
-            <mxPoint x="-26" y="116" as="offset" />
+            <mxPoint x="-29" y="95" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-83" value="10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kdr6ucMX84KhMuHh8XHY-79">
