@@ -34,11 +34,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-71" value="3. 检查黑名单 Blocklist" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="0.0557" y="-31" relative="1" as="geometry">
+          <mxGeometry x="0.0557" y="-40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="302" />
             </Array>
-            <mxPoint x="-10" y="-15" as="offset" />
+            <mxPoint x="-14" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-72" value="4. 无黑名单记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-67" target="Kdr6ucMX84KhMuHh8XHY-66">
@@ -49,11 +49,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-73" value="5. 创建Friendship记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry x="0.065" y="-55" relative="1" as="geometry">
+          <mxGeometry x="0.065" y="-87" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="44" y="302" />
             </Array>
-            <mxPoint x="-8" y="-42" as="offset" />
+            <mxPoint x="-11" y="-69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-74" value="6. 创建通知 Notification" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
