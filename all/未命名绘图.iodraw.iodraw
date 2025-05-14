@@ -10,7 +10,7 @@
         <mxCell id="I_RcoYWsgymP066cbY6h-2" value="HTTPS/WS" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="318" y="1118" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-3" value="Nginx 网关层 (负载均衡 + SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="I_RcoYWsgymP066cbY6h-3" value="网关层 (负载均衡 + SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="492" y="1147" width="240" height="67" as="geometry" />
         </mxCell>
         <mxCell id="I_RcoYWsgymP066cbY6h-4" value="Flask 业务层 (REST API 处理)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
