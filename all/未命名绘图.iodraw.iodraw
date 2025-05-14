@@ -34,7 +34,7 @@
         <mxCell id="I_RcoYWsgymP066cbY6h-10" value=" 异步任务 (消息推送)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1073" y="927" width="178" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-11" value="Elasticsearch (日志分析与检索)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="I_RcoYWsgymP066cbY6h-11" value="(日志分析与检索)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1085" y="1142" width="154" height="67" as="geometry" />
         </mxCell>
         <mxCell id="I_RcoYWsgymP066cbY6h-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="I_RcoYWsgymP066cbY6h-1" target="I_RcoYWsgymP066cbY6h-2">
