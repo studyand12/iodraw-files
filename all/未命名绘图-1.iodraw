@@ -10,7 +10,7 @@
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-2" value="Nginx&#xa;(负载均衡)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="246" y="78" width="106" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="Kdr6ucMX84KhMuHh8XHY-3" value="Flask应用集群&#xa;()" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kdr6ucMX84KhMuHh8XHY-3" value="Flask应用集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="402" y="118" width="188" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-4" value="CDN/对象存储&#xa;(游戏/图片资源)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
