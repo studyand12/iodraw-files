@@ -31,7 +31,7 @@
         <mxCell id="I_RcoYWsgymP066cbY6h-9" value="MongoDB 分片 (聊天日志)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1073" y="1259" width="178" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="I_RcoYWsgymP066cbY6h-10" value="Celery 异步任务 (报表生成/消息推送)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="I_RcoYWsgymP066cbY6h-10" value=" 异步任务 (消息推送)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1073" y="927" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="I_RcoYWsgymP066cbY6h-11" value="Elasticsearch (日志分析与检索)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
