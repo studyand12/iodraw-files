@@ -48,10 +48,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-73" value="5. 创建Friendship记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.065" y="-55" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="44" y="302" />
             </Array>
+            <mxPoint x="-8" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-74" value="6. 创建通知 Notification" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-66" target="Kdr6ucMX84KhMuHh8XHY-67">
