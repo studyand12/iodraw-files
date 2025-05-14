@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1779" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="26" y="329" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-68" value="用户B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="432" width="101" height="49" as="geometry" />
+          <mxGeometry x="90" y="432" width="98.94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-69" value="1. 发送好友请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="Kdr6ucMX84KhMuHh8XHY-64" target="Kdr6ucMX84KhMuHh8XHY-65">
           <mxGeometry relative="1" as="geometry">
