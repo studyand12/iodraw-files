@@ -38,7 +38,7 @@
           <mxGeometry x="555" y="380" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-24" value="- admin_required" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="618" y="537" width="30" height="30" as="geometry" />
+          <mxGeometry x="618.5" y="536.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kdr6ucMX84KhMuHh8XHY-25" value="安全措施模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="684" width="156" height="49" as="geometry" />
