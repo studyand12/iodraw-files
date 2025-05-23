@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="slnU1FhHbPMX-R2JDRxu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-45" target="slnU1FhHbPMX-R2JDRxu-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="84" />
+              <mxPoint x="226" y="201" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-45" value="用户登录/注册&#xa;(auth.py)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="63" y="50" width="134" height="67" as="geometry" />
@@ -20,7 +25,7 @@
           <mxGeometry x="254" y="167" width="154" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-49" value="删除帖子&#xa;(DELETE /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="283" width="178" height="67" as="geometry" />
+          <mxGeometry x="26" y="260" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-50" value="添加评论&#xa;(POST /comments)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="248" y="283" width="165" height="67" as="geometry" />
@@ -29,7 +34,7 @@
           <mxGeometry x="463" y="283" width="118" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-52" value="级联删除评论/点赞&#xa;(CASCADE DELETE)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="26" y="400" width="166" height="67" as="geometry" />
+          <mxGeometry x="31" y="370" width="166" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-46" target="slnU1FhHbPMX-R2JDRxu-48">
           <mxGeometry relative="1" as="geometry">
