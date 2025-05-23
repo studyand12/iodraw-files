@@ -37,14 +37,8 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-6" value="MySQL 数据库(用户数据/游戏记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="580" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-7" value="异步任务(消息推送)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="137" width="200" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-9" value="静态资源服务器图片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="469" width="154.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-10" value="日志分析与检索" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="236" width="127" height="72" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-6">
           <mxGeometry relative="1" as="geometry">
@@ -53,18 +47,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1024" y="161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-10">
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1024" y="271" />
             </Array>
+            <mxPoint x="1111" y="271.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
