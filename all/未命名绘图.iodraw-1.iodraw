@@ -19,6 +19,9 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-3" value="网关层(负载均衡+SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="436" y="308" width="248" height="49" as="geometry" />
         </mxCell>
@@ -34,9 +37,6 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-7" value="异步任务(消息推送)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1074" y="137" width="200" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-8" value="Redis 集群(缓存/实时队列)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="456" width="250" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-9" value="静态资源服务器图片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="469" width="154.5" height="61" as="geometry" />
         </mxCell>
@@ -51,11 +51,6 @@
             <Array as="points">
               <mxPoint x="715" y="216" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-6">
