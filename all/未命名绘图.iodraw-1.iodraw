@@ -23,7 +23,7 @@
           <mxGeometry x="740" y="192" width="259" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-5" value="WebSocket 服务(实时消息)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="744" y="456" width="252" height="49" as="geometry" />
+          <mxGeometry x="797" y="420" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-6" value="MySQL 数据库(用户数据/游戏记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1049" y="20" width="250" height="67" as="geometry" />
