@@ -10,8 +10,11 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-1" value="UniApp 客户端 (iOS/Android/Web)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="20" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-2" target="slnU1FhHbPMX-R2JDRxu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-2" value="HTTPS/WS" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="125" height="125" as="geometry" />
+          <mxGeometry x="497.5" y="170" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-3" value="网关层(负载均衡+SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="442" y="456" width="248" height="49" as="geometry" />
