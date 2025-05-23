@@ -24,16 +24,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-36" value="服务器开放端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="130" height="60" as="geometry" />
+          <mxGeometry x="180" y="420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-37" target="slnU1FhHbPMX-R2JDRxu-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-37" value="Flask应用集群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-39" value="Mysql" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="640" width="120" height="55" as="geometry" />
+          <mxGeometry x="354" y="520" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
