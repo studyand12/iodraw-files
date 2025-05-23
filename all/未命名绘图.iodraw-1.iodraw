@@ -17,7 +17,7 @@
           <mxGeometry x="497.5" y="170" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-3" value="网关层(负载均衡+SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="442" y="456" width="248" height="49" as="geometry" />
+          <mxGeometry x="436" y="350" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-4" value="Flask 业务层(REST API 处理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="192" width="259" height="49" as="geometry" />
@@ -42,11 +42,6 @@
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-11" value="DB分片(聊天日志)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1081" y="357" width="187" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-2" target="slnU1FhHbPMX-R2JDRxu-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-4">
           <mxGeometry relative="1" as="geometry">
