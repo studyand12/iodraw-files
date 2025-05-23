@@ -24,6 +24,9 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-48" value="查看帖子详情&#xa;(GET /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="254" y="167" width="154" height="67" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
           <mxGeometry x="248.5" y="300" width="165" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-51" value="点赞帖子&#xa;(POST /like)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="463" y="283" width="118" height="67" as="geometry" />
+          <mxGeometry x="450" y="300" width="118" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-52" value="级联删除评论/点赞&#xa;(CASCADE DELETE)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="37" y="340" width="166" height="67" as="geometry" />
@@ -56,13 +59,6 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="522" y="258" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-49" target="slnU1FhHbPMX-R2JDRxu-52">
