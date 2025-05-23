@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-2" value="HTTPS/WS" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="170" width="125" height="125" as="geometry" />
+          <mxGeometry x="497.5" y="137" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-3" value="网关层(负载均衡+SSL终止)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="436" y="350" width="248" height="49" as="geometry" />
+          <mxGeometry x="436" y="308" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-4" value="Flask 业务层(REST API 处理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="192" width="259" height="49" as="geometry" />
+          <mxGeometry x="740" y="213" width="259" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-5" value="WebSocket 服务(实时消息)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="797" y="420" width="252" height="49" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1049" y="456" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-9" value="静态资源服务器(OSS/CDN 图片/视频)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255.5" y="530" width="242" height="67" as="geometry" />
+          <mxGeometry x="255.5" y="469" width="242" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-10" value="日志分析与检索" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1111" y="236" width="127" height="72" as="geometry" />
