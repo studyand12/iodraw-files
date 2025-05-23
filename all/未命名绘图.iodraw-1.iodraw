@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-30" value="uniapp客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-31">
           <mxGeometry relative="1" as="geometry">
@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-31" value="CDN/存储系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-36" target="slnU1FhHbPMX-R2JDRxu-37">
           <mxGeometry relative="1" as="geometry" />
