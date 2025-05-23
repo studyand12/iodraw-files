@@ -21,11 +21,14 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-47" value="创建新帖子&#xa;(POST /posts)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="423" y="50" width="128" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-48" value="查看帖子详情&#xa;(GET /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="254" y="167" width="154" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-49" value="删除帖子&#xa;(DELETE /posts/{id})" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="26" y="260" width="178" height="67" as="geometry" />
+          <mxGeometry x="31" y="230" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-50" value="添加评论&#xa;(POST /comments)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="248" y="283" width="165" height="67" as="geometry" />
@@ -59,13 +62,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="522" y="258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-48" target="slnU1FhHbPMX-R2JDRxu-49">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="109" y="258" />
             </Array>
           </mxGeometry>
         </mxCell>
