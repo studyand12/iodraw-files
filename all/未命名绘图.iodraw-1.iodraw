@@ -26,7 +26,7 @@
           <mxGeometry x="436" y="308" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-4" value="Flask 业务层(REST API 处理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="259" height="49" as="geometry" />
+          <mxGeometry x="640" y="470" width="190" height="59" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-5" value="WebSocket 服务(实时消息)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="469" width="190" height="60" as="geometry" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-10" value="日志分析与检索" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1111" y="236" width="127" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-11" value="DB分片(聊天日志)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="357" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-4">
           <mxGeometry relative="1" as="geometry">
@@ -71,13 +68,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1024" y="271" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1024" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
