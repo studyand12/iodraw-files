@@ -4,10 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="420" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-30" target="slnU1FhHbPMX-R2JDRxu-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-30" value="uniapp客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="120" height="60" as="geometry" />
