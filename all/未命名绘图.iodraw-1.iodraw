@@ -43,13 +43,6 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-10" value="日志分析与检索" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1111" y="236" width="127" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-3" target="slnU1FhHbPMX-R2JDRxu-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="715" y="216" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-4" target="slnU1FhHbPMX-R2JDRxu-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
