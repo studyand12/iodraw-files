@@ -31,13 +31,13 @@
           <mxGeometry x="31" y="230" width="178" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-50" value="添加评论&#xa;(POST /comments)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="248" y="283" width="165" height="67" as="geometry" />
+          <mxGeometry x="248.5" y="300" width="165" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-51" value="点赞帖子&#xa;(POST /like)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="463" y="283" width="118" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-52" value="级联删除评论/点赞&#xa;(CASCADE DELETE)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="31" y="370" width="166" height="67" as="geometry" />
+          <mxGeometry x="37" y="340" width="166" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="slnU1FhHbPMX-R2JDRxu-46" target="slnU1FhHbPMX-R2JDRxu-48">
           <mxGeometry relative="1" as="geometry">
