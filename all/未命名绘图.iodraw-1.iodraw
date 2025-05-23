@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-45" value="用户登录/注册&#xa;(auth.py)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="63" y="50" width="134" height="67" as="geometry" />
+          <mxGeometry x="31" y="100" width="134" height="67" as="geometry" />
         </mxCell>
         <mxCell id="slnU1FhHbPMX-R2JDRxu-46" value="查看帖子列表&#xa;(GET /posts)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="247" y="50" width="126" height="67" as="geometry" />
