@@ -7,8 +7,8 @@
         <mxCell id="slnU1FhHbPMX-R2JDRxu-30" value="uniapp客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="slnU1FhHbPMX-R2JDRxu-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="slnU1FhHbPMX-R2JDRxu-31" value="CDN/存储系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
