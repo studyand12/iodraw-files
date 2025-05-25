@@ -35,7 +35,7 @@
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-8" value="游玩游戏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0LyVnd_w5oNj_d_jDnzM-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0LyVnd_w5oNj_d_jDnzM-11" value="更新游戏排行榜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
