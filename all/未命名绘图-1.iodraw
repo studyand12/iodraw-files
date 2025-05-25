@@ -23,6 +23,9 @@
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-2" value="签到（获取积分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0LyVnd_w5oNj_d_jDnzM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0LyVnd_w5oNj_d_jDnzM-4" target="0LyVnd_w5oNj_d_jDnzM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-4" value="购买游戏道具" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
