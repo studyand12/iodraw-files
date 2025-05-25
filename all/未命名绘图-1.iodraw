@@ -19,11 +19,17 @@
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0LyVnd_w5oNj_d_jDnzM-2" target="0LyVnd_w5oNj_d_jDnzM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0LyVnd_w5oNj_d_jDnzM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0LyVnd_w5oNj_d_jDnzM-2" target="0LyVnd_w5oNj_d_jDnzM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-2" value="签到（获取积分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0LyVnd_w5oNj_d_jDnzM-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
