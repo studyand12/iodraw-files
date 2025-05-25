@@ -41,7 +41,7 @@
         <mxCell id="0LyVnd_w5oNj_d_jDnzM-11" value="更新游戏排行榜" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0LyVnd_w5oNj_d_jDnzM-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0LyVnd_w5oNj_d_jDnzM-13" value="加好友/私聊" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
