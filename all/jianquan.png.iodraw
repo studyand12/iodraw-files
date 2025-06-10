@@ -9,16 +9,11 @@
             <mxPoint x="320" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-25" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1v8DrouDOQ0nvATaTTzM-23">
-          <mxGeometry x="0.0082" y="4" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-22" target="1v8DrouDOQ0nvATaTTzM-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-22" value="unaipp客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-24" target="1v8DrouDOQ0nvATaTTzM-26">
           <mxGeometry relative="1" as="geometry" />
