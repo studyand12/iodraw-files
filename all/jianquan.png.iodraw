@@ -15,9 +15,14 @@
             <mxPoint x="270" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-70">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1v8DrouDOQ0nvATaTTzM-72">
+          <mxGeometry x="0.505" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="160" as="targetPoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-70" value="是否注册" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
