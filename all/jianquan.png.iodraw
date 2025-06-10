@@ -9,10 +9,15 @@
             <mxPoint x="320" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1v8DrouDOQ0nvATaTTzM-23">
+          <mxGeometry x="0.0082" y="4" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-22" value="unaipp客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-24" value="查看帖子详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
