@@ -19,6 +19,9 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-2" value="用户登录" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-5" target="1v8DrouDOQ0nvATaTTzM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-5" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -49,8 +52,11 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-15" value="黑名单检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-16" value="用户权限检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-16" value="用户权限&lt;div&gt;检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-19" value="" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
