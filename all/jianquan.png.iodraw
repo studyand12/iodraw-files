@@ -23,10 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-76" value="注册新用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-79" target="1v8DrouDOQ0nvATaTTzM-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-79" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-83" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
