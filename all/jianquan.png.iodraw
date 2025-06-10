@@ -29,6 +29,12 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-26" target="1v8DrouDOQ0nvATaTTzM-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-26" target="1v8DrouDOQ0nvATaTTzM-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-26" target="1v8DrouDOQ0nvATaTTzM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-26" value="查看帖子详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
