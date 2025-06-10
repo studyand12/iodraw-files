@@ -17,13 +17,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-22" value="unaipp客户端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-22" value="unaipp&lt;div&gt;客户端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-24" target="1v8DrouDOQ0nvATaTTzM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-24" value="查看帖子列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-24" value="查看帖子&lt;div&gt;列表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-26" target="1v8DrouDOQ0nvATaTTzM-32">
