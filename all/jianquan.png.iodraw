@@ -81,6 +81,9 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-97">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="631" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-103" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1v8DrouDOQ0nvATaTTzM-101">
@@ -91,11 +94,14 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-97" value="是否游玩游戏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="470" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-104" target="1v8DrouDOQ0nvATaTTzM-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-104" value="游玩游戏、获取积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-105" value="结束游玩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
