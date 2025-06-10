@@ -22,7 +22,7 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-5" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-7" value="生成专属令牌" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
