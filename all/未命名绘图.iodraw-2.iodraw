@@ -37,7 +37,7 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-9" value="获取登录&lt;div&gt;状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-12" value="安全措施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
