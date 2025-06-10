@@ -60,7 +60,7 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-16" value="用户权限&lt;div&gt;检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1v8DrouDOQ0nvATaTTzM-19" value="" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-19" value="权限控制&lt;div&gt;模块&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
