@@ -27,13 +27,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-51" value="Flask后端API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-57" target="1v8DrouDOQ0nvATaTTzM-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-57" value="Flask后端API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-59" target="1v8DrouDOQ0nvATaTTzM-57">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-59" value="MYSQL数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
