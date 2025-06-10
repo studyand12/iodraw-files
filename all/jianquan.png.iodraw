@@ -23,6 +23,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-51" value="Flask后端API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
         </mxCell>
