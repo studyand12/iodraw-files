@@ -50,6 +50,9 @@
         <mxCell id="1v8DrouDOQ0nvATaTTzM-32" value="添加评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-33" target="1v8DrouDOQ0nvATaTTzM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-33" value="点赞帖子" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -61,6 +64,9 @@
         </mxCell>
         <mxCell id="1v8DrouDOQ0nvATaTTzM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1v8DrouDOQ0nvATaTTzM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1v8DrouDOQ0nvATaTTzM-34" target="1v8DrouDOQ0nvATaTTzM-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
